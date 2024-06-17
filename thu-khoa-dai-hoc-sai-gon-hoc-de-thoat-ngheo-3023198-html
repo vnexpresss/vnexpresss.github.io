@@ -1,35 +1,38 @@
 
-
 <!DOCTYPE html>
 <html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Thủ khoa Đại học Sài Gòn: 'Học để thoát nghèo' - Báo VnExpress</title><meta name="description" content="Học kiếm một nghề tương lai, thoát khỏi cảnh làm nông, đỡ đần cho bố mẹ... là tâm nguyện của chàng Thủ khoa Đại học Sài Gòn. - VnExpress"/>
-<meta name="keywords" content="thủ khoa, con nhà nông, tất bật, thoát nghèo, ĐH Sài Gòn, ĐH XDMT, bí quyết, ốm yếu, Lập trình viên"/>
-<meta name="news_keywords" content="thủ khoa, con nhà nông, tất bật, thoát nghèo, ĐH Sài Gòn, ĐH XDMT, bí quyết, ốm yếu, Lập trình viên"/>
+<title>Thủ khoa Đại học Quy Nhơn: 'Học để thoát nghèo' - Báo VnExpress</title> <meta name="description" content="Học kiếm một nghề tương lai, thoát khỏi cảnh làm nông, đỡ đần cho bố mẹ... là tâm nguyện của chàng thủ khoa Đại học Quy Nhơn. - VnExpress"/>
+<meta name="keywords" content="thủ khoa, con nhà nông, tất bật, thoát nghèo, ĐH Quy Nhơn, ĐH Y dược, bí quyết, ốm yếu, Bác sĩ đa khoa"/>
+<meta name="news_keywords" content="thủ khoa, con nhà nông, tất bật, thoát nghèo, ĐH Quy Nhơn, ĐH Y dược, bí quyết, ốm yếu, Bác sĩ đa khoa"/>
 <meta charset="utf-8">
-<meta name="theme-color" content="#A0234F"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=yes">
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport"/>
 <meta http-equiv="X-UA-Compatible" content="IE=100"/>
 <meta property="fb:app_id" content="1547540628876392"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-title" content="Vnexpress.net"/>
 <meta name="tt_article_id" content="3023198"/>
-<meta name="tt_page_type" content="article"/>
-<meta name="tt_page_type_new" content="3"/>
 <meta name="tt_category_id" content="1005212"/>
 <meta name="tt_site_id" content="1000000"/>
 <meta name="tt_site_id_new" content="1003497"/>
 <meta name="tt_list_folder" content="1000000,1003497,1005212"/>
 <meta name="tt_list_folder_name" content="VnExpress,Giáo dục,Tin tức"/>
-<meta name="apple-itunes-app" content="app-id=488630446, app-argument=vneapp://article/3023198"><!-- META FOR FACEBOOK -->
-<meta content="Tin nhanh VnExpress" property="og:site_name"/>
+<meta name="tt_page_type" content="article"/>
+<meta name="tt_page_type_new" content="3"/>
+<!-- add meta for pvtt3334 -->
+<!-- end meta for pvtt -->
+<!-- META FOR FACEBOOK -->
+<meta property="og:site_name" content="vnexpress.net"/>
+<meta property="og:rich_attachment" content="true"/>
+<meta property="og:type" content="article"/>
+<meta property="article:publisher" content="https://www.facebook.com/congdongvnexpress/"/>
 <meta property="og:url" itemprop="url" content="https://vnexpress.net/thu-khoa-dai-hoc-quy-nhon-hoc-de-thoat-ngheo-3023198.html"/>
-<meta property="og:image" itemprop="thumbnailUrl" content="https://i1-vnexpress.vnecdn.net/2014/07/28/thu-khoa-ngheo-1-8680-1406519697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MVV4RdL-eIJqLKXdN73NXA"/>
+<meta property="og:image" itemprop="thumbnailUrl" content="https://i2-vnexpress.vnecdn.net/2014/07/28/thu-khoa-ngheo-1-8680-1406519697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MVV4RdL-eIJqLKXdN73NXA"/>
 <meta property="og:image:width" content="800"/>
 <meta property="og:image:height" content="354"/>
-<meta content="Thủ khoa Đại học Sài Gòn: 'Học để thoát nghèo'" itemprop="headline" property="og:title"/>
-<meta content="Học kiếm một nghề tương lai, thoát khỏi cảnh làm nông, đỡ đần cho bố mẹ... là tâm nguyện của chàng Thủ khoa Đại học Sài Gòn." itemprop="description" property="og:description"/>
-<meta name="liston_category" content="1003497,1005212"/><meta content="article" property="og:type"/><meta name="tt_site_id_detail" content="1003497" catename="Giáo dục"/><!-- END META FOR FACEBOOK -->
+<meta content="Thủ khoa Đại học Quy Nhơn: 'Học để thoát nghèo'" itemprop="headline" property="og:title"/>
+<meta content="Học kiếm một nghề tương lai, thoát khỏi cảnh làm nông, đỡ đần cho bố mẹ... là tâm nguyện của chàng thủ khoa Đại học Quy Nhơn." itemprop="description" property="og:description"/>
+<meta name="liston_category" content="1003497,1005212"/><meta name="tt_site_id_detail" content="1003497" catename="Giáo dục"/> <!-- END META FOR FACEBOOK -->
 <meta content="news" itemprop="genre" name="medium"/>
 <meta content="vi-VN" itemprop="inLanguage"/>
 <meta content="Tin tức" itemprop="articleSection"/>
@@ -490,4 +493,3 @@ window.addEventListener('DOMContentLoaded',function(){if(scriptFooterIS(scriptFo
 <div id="tt_end_page" style="display: none;"></div></body>
 <script>!function(){let t,e="fosp_uid=",n=decodeURIComponent(document.cookie).split(";"),i=!1;for(let r=0;r<n.length;r++){let s=n[r];for(;" "==s.charAt(0);)s=s.substring(1);0==s.indexOf(e)&&(t=s.substring(e.length,s.length)),0==s.indexOf("myvne_user_id=")&&(i=!0)}if(t){var d="https://adp.vnecdn.net";fetch(`${d}/jn/dt`).then(t=>t.json()).then(e=>{if(e.sc_v){let n=document.createElement("script");n.setAttribute("src",`${d}/jn/sc.js?v=${e.sc_v}`),n.setAttribute("type","text/javascript"),n.setAttribute("async",!0),n.onload=function(){var e=setInterval(()=>{if(i){if("undefined"==typeof myvne_users||void 0===myvne_users.profile||void 0===myvne_users.profile.user_id)return;clearInterval(e)}else clearInterval(e);"object"==typeof Journey&&Journey.readyToRun()&&fetch(`${d}/jn/dt?uid=${t}`).then(t=>t.json()).then(t=>{t.dt&&(window.jn_dt=t.dt),Journey.init()})},1e3)},document.body.appendChild(n)}}).catch(t=>{console.error("Error:",t)})}}();</script>
 </html>
-
